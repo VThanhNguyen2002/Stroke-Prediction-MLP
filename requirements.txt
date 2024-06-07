@@ -1,0 +1,6 @@
+version lib:
+TensorFlow version: 2.15.0
+NumPy version: 1.23.5
+Pandas version: 1.5.3
+Scikit-learn version: 1.2.2
+Keras version (integrated with TensorFlow): 2.15.0
